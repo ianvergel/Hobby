@@ -23,6 +23,10 @@ public class Hobby {
         System.out.println("1 - 4. Painting, reading, watching movies, and playing video games.");
         System.out.println("5. Talking with Jam.");
         }
+
+    public static void displayTraineeHobbyD() {
+        System.out.println("Trainee D/Dexter’s Hobbies:");
+        System.out.println("1. Playing Pickle Ball");
+        System.out.println("2. Reading Manwha");
+    }
 }
-
-
