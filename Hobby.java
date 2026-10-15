@@ -12,4 +12,3 @@ public class Hobby {
         System.out.println("2. Reading Manwha");
     }
 }
-gi
