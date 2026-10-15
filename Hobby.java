@@ -7,9 +7,8 @@ public class Hobby {
 }
 
     public static void displayTraineeHobbyC() {
-        System.out.println("Ritchie Mapulak's Hobbies");
-        System.out.println("==========================");
-        System.out.println("Playing basketball.");
-        System.out.println("Listening to pop music.");
+        System.out.println("Trainee C/Ritchie's Hobbies:");
+        System.out.println("1. Playing basketball.");
+        System.out.println("2. Listening to pop music.");
 }
 }
