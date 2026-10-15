@@ -3,5 +3,6 @@ public static void main(String[] args) {
 displayTraineeHobbyA();
 displayTraineeHobbyB();
 displayTraineeHobbyC();
+displayTraineeHobbyD();
 }
 }
